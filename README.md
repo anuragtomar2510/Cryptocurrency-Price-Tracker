@@ -3,9 +3,9 @@
 
 Demo : [https://anuragtomar2510-cryptocurrency-price-tracker.netlify.app/]
 
-It is a React-based Cryptocurrency Price Tracker Application. By default, it displays price info of top 10 most popular cryptocurrencies. A user can also enter the name of cryptocurrency whose price info he/she wants to know, it will show all the pricing info related to that cryptocurrency. It uses CoinGecko API which can be found [here](https://www.coingecko.com/en/api)
+A React-based Cryptocurrency Price Tracker Application that provides real-time price information for the top 10 most popular cryptocurrencies. With a user-friendly interface, individuals can easily search for any cryptocurrency by name to access detailed pricing data, including current value, market cap, and percentage changes. Designed for both novice and experienced traders, the app offers insightful data to help users make informed decisions. It leverages the CoinGecko API for accurate and up-to-date information, which can be found [here](https://www.coingecko.com/en/api)
 
-Feel free to fork the repository for your own learning.
+Feel free to fork the repository for your learning.
 
 
 ## Screenshot
